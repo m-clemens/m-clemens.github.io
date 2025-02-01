@@ -1,0 +1,18 @@
+- company: Cirosec GmbH, Heilbronn
+  roles:
+    - role: Information Security Consultant
+      details: "- Performed penetration tests of web applications, Windows/Linux systems, VPN servers and networks\n
+                - Conducted configuration assessments of various systems / applications\n
+                - Developed hardening policies (OS, applications servers, VPN)\n
+                - Conducted conceptual analyses\n
+                - Developed and conducted security trainings for our customers"
+      date: "03/2011 - 12/2015"
+- company: dsb AG, Neckarsulm
+  roles:
+    - role: System and Database Administrator
+      details: "- System administrator for IBM AIX\n
+                - Database administrator for ADABAS C on AIX and VM/ESA\n
+                - Database administrator for IBM DB2 on AIX\n
+                - Backup administrator for Tivoli Storage Manager"
+      date: "11/2004 - 02/2011"
+

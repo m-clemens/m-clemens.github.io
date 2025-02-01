@@ -1,0 +1,37 @@
+- company: zooplus SE, Munich
+  roles:
+    - role: Senior Information Security Engineer
+      details: "- Handled and analyzed security incidents\n
+                - Designed, developed, rolled-out and operated a SOC\n
+                - Evaluated, implemented and operated a SIEM platform\n
+                - Provided in-house security consulting across teams and departments"
+      date: "07/2022 - Present"
+- company: Schwarz IT KG, Neckarsulm
+  roles:
+    - role: Information Security Analyst (SOC)
+      details: "- Incident handling and analysis in the Schwarz IT Cyber Defense Center\n
+                - Threat Intelligence Management"
+      date: "09/2020 - 06/2022"
+
+    - role: Information Security Engineer
+      details: "- Developed and operated the Qualys vulnerability scanner\n
+                - Supported ISOs and teams with security-related technical issues\n
+                - Developed hardening guidelines for operating systems"
+      date: "09/2018 - 08/2020"
+
+- company: Fujitsu TDS GmbH, Neckarsulm
+  roles: 
+    - role: IT Security Engineer (SOC)
+      details: "- Operated and developed the McAfee SIEM solution\n
+                - Developed and implemented SOC use cases\n
+                - Operated the Nessus vulnerability scanner"
+      date: "01/2017 - 08/2018"
+    
+- company: Bürkert Werke GmbH, Ingelfingen
+  roles: 
+    - role: Senior Information Security Administrator
+      details: "- Conceptualized an information security awareness campaign\n
+                - Evaluated new IT security guidelines, measures and products\n
+                - Performed incident handling and analyses"
+      date: "01/2016 - 12/2016"
+

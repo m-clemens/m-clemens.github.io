@@ -1,0 +1,21 @@
+projects:
+- title: "Conception, development and operation of a Security Operations Center (SOC)"
+  subtitle: "2022 - Present"
+  date: 
+  details: |
+    Designed and implemented a Security Operations Centers (SOC) from concept to full operation. Developed a comprehensive SOC strategy, defining and structuring SOC services, processes, and capabilities. Led the rollout planning, ensuring seamless deployment and integration with existing security frameworks. Successfully implemented and operated the SOC, optimizing threat detection, incident response, and continuous monitoring to enhance organizational security resilience.
+- title: "Evaluation, implementation and operation of a SIEM"
+  subtitle: "2022 - Present"
+  date:
+  details: |
+    Led the evaluation, implementation, and operation of the Hunters SOC Platform to enhance security visibility and threat detection. Assessed platform capabilities to align with organizational security needs, ensuring optimal configuration and integration. Successfully deployed the SIEM solution, fine-tuning detection rules, log ingestion, and correlation mechanisms. Managed ongoing operations, continuously improving threat intelligence and incident response.
+- title: "Development and implementation of a threat intelligence collection and distribution system"
+  subtitle: "2021 (Python, PostgreSQL)"
+  date: 
+  details: |
+    Designed, developed, and deployed a message pipeline hub using IntelMQ for collecting and deduplicating Indicators of Compromise (IOCs) from threat intelligence feeds and sharing platforms (e.g., MISP). Enabled the distribution and revocation of deduplicated, normalized IOCs (e.g., URLs, hashes) across external systems, enhancing threat intelligence efficiency.
+- title: "Development of a solution for the automated creation of use case documentation"
+  subtitle: "2018 (Python)"
+  date: 
+  details: |
+    Developed a Python-based solution to automatically generate use case and correlation rule documentation in Markdown format for McAfee Enterprise Security Manager (ESM), streamlining documentation processes and ensuring consistency.
